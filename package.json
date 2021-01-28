@@ -1,0 +1,19 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sandwichnyc/jamstack-example-persistent-data.git",
+  "author": "sandwichnyc <svillani722@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.31.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop"
+  }
+}
